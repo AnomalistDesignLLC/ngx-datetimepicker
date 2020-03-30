@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "description": "Date, DateTime & Time Picker components that uses native HTML5 components on mobile",
   "repository": {
-    "url": "https://github.com/RenovoSolutions/ngx-datetimepicker"
+    "url": "https://github.com/AnomalistDesignLLC/ngx-datetimepicker"
   },
   "scripts": {
     "build": "ng-packagr -p package.json && sass src/scss/date.component.scss dist/ngx-datetime-picker.css",
